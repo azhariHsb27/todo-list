@@ -1,3 +1,4 @@
 Rencana todo-list
 - Personal todo (React)
 - Team todo (MERN Tech)
+- Big project todo (NextJS)
